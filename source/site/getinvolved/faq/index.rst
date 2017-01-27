@@ -3,9 +3,9 @@
 FAQ
 ====
 
-Here we collect answers to question which come up very often.
+Here we collect answers to questions which come up very often.
 
-We will start of with this one page, maybe restructure it into sections, or
+We will start off with this one page, maybe restructure it into sections, or
 even more pages if needed
 
 
